@@ -1,2 +1,7 @@
 # monorepo
-to get a good job
+todoLists
+* add js doc
+* webpack
+* serverLess
+* node
+
